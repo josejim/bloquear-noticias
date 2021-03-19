@@ -1,3 +1,5 @@
+#Sitios permitidos
++maps.google.com
 #[//Sitios bloqueados]
 facebook.com
 gmail.com
