@@ -260,6 +260,7 @@
 0.0.0.0 tinypic.com
 0.0.0.0 twitter.com
 0.0.0.0 mobile.twitter.com
+0.0.0.0 politburo-digital.com
 0.0.0.0 unafuente.com
 0.0.0.0 unyk.com
 0.0.0.0 uploaded.to
