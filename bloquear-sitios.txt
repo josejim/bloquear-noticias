@@ -3,10 +3,10 @@
 +google.com/maps
 #[//Sitios bloqueados]
 facebook.com
-gmail.com
++gmail.com
 grooveshark.com
 login.live.com
-mail.google.com
++mail.google.com
 pinterest.com
 www.facebook.com
 www.gmail.com
